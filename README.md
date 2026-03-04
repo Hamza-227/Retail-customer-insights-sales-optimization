@@ -82,7 +82,7 @@ Data cleaning and preprocessing were performed using **Python (Pandas & NumPy)**
 
 ---
 
-## 4️⃣ Business Analysis Using SQL (PostgreSQL)
+## 4️⃣ Business Analysis Using SQL (MySql)
 
 Structured SQL queries were written to answer key business questions:
 

@@ -136,31 +136,13 @@ They are the highest revenue group. Build seasonal campaigns (they respond to tr
 
 ---
 
-## 🚀 How to Run
+## 👤 Author
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Hamza-227/retail-customer-behavior-analysis.git
-
-# 2. Install Python dependencies
-pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
-
-# 3. Run the notebook
-jupyter notebook Data_Cleaning_Python.ipynb
-
-# 4. Import SQL file into MySQL
-mysql -u root -p < Sql_Analysis.sql
-
-# 5. Open Power BI dashboard
-# Open DashBoard_Using_PowerBi.pbix in Power BI Desktop
-```
+**Hamza Anjum**
+Data Analyst | Python · SQL · Power BI
 
 ---
 
-## 👤 Author
-
-**[Hamza Anjum]**
-Data Analyst | Python · SQL · Power BI
 [LinkedIn](https://www.linkedin.com/in/hamza-anjum-459bba320/) · [GitHub](https://github.com/Hamza-227) · [Email](hamzaanjum650@gmail.com)
 
 

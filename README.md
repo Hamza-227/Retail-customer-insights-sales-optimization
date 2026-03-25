@@ -143,6 +143,18 @@ Data Analyst | Python · SQL · Power BI
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/hamza-anjum-459bba320/) · [GitHub](https://github.com/Hamza-227) · [Email](hamzaanjum650@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/hamza-anjum-459bba320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hamza-227">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hamzaanjum650@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-
+---

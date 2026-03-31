@@ -115,6 +115,8 @@ Interactive dashboard built in `DashBoard_Using_PowerBi.pbix`:
 - Revenue & Sales by Age Group (horizontal bars)
 - Filters: Gender · Category · Subscription Status · Shipping Type
 
+![Dashboard Summary](images/img1.png)
+
 ---
 
 ## 📌 Business Recommendations
